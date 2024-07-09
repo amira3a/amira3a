@@ -3,10 +3,10 @@
  📫 How to reach me: [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By225f30STX%2BJJBtM8uK8ow%3D%3D)
 
 
- 🛠️ Languages and Tools :
-  <b>HTML</b>
-  <b>CSS</b>
-  <b>JavaScript</b>
+ 🛠️ Languages and Tools :<br>
+  <b>HTML</b><br>
+  <b>CSS</b><br>
+  <b>JavaScript</b><br>
   <b>React</b>
   
   
