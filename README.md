@@ -1,6 +1,14 @@
 ## Hi 👋,I'm Amira and I'm a Frontend Developer, from Egypt.
  🔭 I’m currently working on some React projects.<br>
  📫 How to reach me: [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By225f30STX%2BJJBtM8uK8ow%3D%3D)
+
+
+ 🛠️ Languages and Tools :
+  <a href="https://www.flaticon.com/free-icons/html" title="html icons">HTML</a>
+  <a href="https://www.flaticon.com/free-icons/java" title="java icons">JavaScript</a>
+  <a href="https://www.flaticon.com/free-icons/css" title="css icons">CSS</a>
+  <a href="https://www.flaticon.com/free-icons/react" title="react icons">React</a>' alt=''>
+  
 <!--
 **amira3a/amira3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
