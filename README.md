@@ -4,10 +4,11 @@
 
 
  🛠️ Languages and Tools :
-  <a href="https://www.flaticon.com/free-icons/html" title="html icons">HTML</a>
-  <a href="https://www.flaticon.com/free-icons/java" title="java icons">JavaScript</a>
-  <a href="https://www.flaticon.com/free-icons/css" title="css icons">CSS</a>
-  <a href="https://www.flaticon.com/free-icons/react" title="react icons">React</a>' alt=''>
+  <b>HTML</b>
+  <b>CSS</b>
+  <b>JavaScript</b>
+  <b>React</b>
+  
   
 <!--
 **amira3a/amira3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
