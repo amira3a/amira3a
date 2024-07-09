@@ -1,6 +1,6 @@
 ## Hi 👋,I'm Amira and I'm a Frontend Developer, from Egypt.
  🔭 I’m currently working on some React projects.<br>
- 📫 How to reach me: [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By225f30STX%2BJJBtM8uK8ow%3D%3D)
+ 📫 How to reach me: [Linkedin](www.linkedin.com/in/amira3a)
 
 
  🛠️ Languages and Tools :<br>
