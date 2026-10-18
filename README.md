@@ -1,4 +1,4 @@
-## Hi 👋,I'm Amira and I'm a Frontend Developer, from Egypt.
+## Hi 👋,I'm Amira and I'm a Instructional Designer, from Egypt.
  🔭 I’m currently working on some React projects.<br>
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amira3a/)
 
